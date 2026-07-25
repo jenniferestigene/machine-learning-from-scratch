@@ -29,7 +29,9 @@ Where results are "close" rather than "exact," it's expected as those algorithms
 ## Running locally
 
 ```bash
-pip install numpy pandas matplotlib scikit-learn
+git clone https://github.com/jenniferestigene/machine-learning-from-scratch.git
+cd machine-learning-from-scratch
+pip install -r requirements.txt
 jupyter notebook
 ```
 
